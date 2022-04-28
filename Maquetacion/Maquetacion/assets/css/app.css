@@ -127,9 +127,6 @@ h2 {
 
     /*Servicios*/
     .servicios {
-        display: flex;
-        column-gap: 5rem;
-        justify-content: space-between;
         margin: 4rem 0;
     }
 
